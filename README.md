@@ -1,2 +1,3 @@
-# sales---dashboard---2026
-My First Power BI Sales Dashboard
+# Sales Dashboard 2026 - Power BI
+My First Power BI work.
+Dashboard - Screenshot.png
